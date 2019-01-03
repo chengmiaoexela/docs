@@ -41,7 +41,7 @@ msgstr "一个集合最多只能创建 **一个** ``文本`` 索引。"
 #: ../source/core/index-text.txt:85
 
 msgid "Wildcard Text Indexes"
-msgstr ""
+msgstr "通配符型文本索引"
 
 #: ../source/core/index-text.txt:102
 msgid ""
@@ -108,7 +108,7 @@ msgstr ""
 
 #: ../source/core/index-text.txt:256
 msgid "Text Index and Sort"
-msgstr ""
+msgstr "文本索引和排序"
 
 #: ../source/core/index-text.txt:258
 msgid ""
@@ -160,7 +160,7 @@ msgstr ""
 
 #: ../source/core/index-text.txt:281
 msgid "Drop a Text Index"
-msgstr ""
+msgstr "删除文本索引"
 
 #: ../source/core/index-text.txt:287
 msgid ""
